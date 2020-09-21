@@ -1,3 +1,6 @@
 # Machine_Learning_with_Python
 
-This folder contains tutorials provided during the course EDX: Machine Learning with Python: from Linear Models to Deep Learning
+This folder contains documentation, tutorials provided during the course edx: Machine Learning with Python - From Linear Models to Deep Learning.
+
+The folder "Tutorials" contains the tutorials encountered during the course
+
